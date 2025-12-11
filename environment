@@ -1,3 +1,4 @@
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
 sudo sed -i '2r /dev/stdin' /etc/environment <<'EOF'
 ALL_PROXY="socks5h://anuragsinha.duckdns.org:1080"
 HTTP_PROXY="socks5h://anuragsinha.duckdns.org:1080"
