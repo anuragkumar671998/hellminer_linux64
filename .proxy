@@ -1,5 +1,3 @@
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
 export http_proxy="http://anuragsinha.duckdns.org:3128"
 export https_proxy="https://anuragsinha.duckdns.org:3128"
-NO_PROXY="localhost,127.0.0.1,localaddress,.localdomain.com"
-HTTP_PROXY="HTTP://anuragsinha.duckdns.org:3128"
-HTTPS_PROXY="HTTPS://anuragsinha.duckdns.org:3128"
