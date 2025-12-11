@@ -1,7 +1,0 @@
-PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
-ALL_PROXY="socks5h://anuragsinha.duckdns.org:1080"
-HTTP_PROXY="socks5h://anuragsinha.duckdns.org:1080"
-HTTPS_PROXY="socks5h://anuragsinha.duckdns.org:1080"
-FTP_PROXY="socks5h://anuragsinha.duckdns.org:1080"
-RSYNC_PROXY="socks5h://anuragsinha.duckdns.org:1080"
-no_proxy="localhost,127.0.0.1"
